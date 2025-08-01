@@ -46,6 +46,14 @@ This repo contains my handwritten notes, study insights, and key takeaways while
 
 ---
 
+
+## 🧠 In My Own Words
+
+Security controls are more than just tech — they involve people, strategy, and physical defense. Understanding both who implements a control and why it exists is essential to the everyday functions of an organization, and critical when designing a defense system that can adapt to outside threats.
+---
+
+*Last updated: August 2, 2025*
+
 ## 📅 Progress Tracker
 - [ ] Domain 1 Notes Complete
 - [ ] Domain 2 Notes Complete
