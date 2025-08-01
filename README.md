@@ -15,7 +15,6 @@ This repo contains my handwritten notes, study insights, and key takeaways while
 ---
 
 ## 📅 Progress Tracker
-- [x] Started Messer videos (August 1)
 - [ ] Domain 1 Notes Complete
 - [ ] Domain 2 Notes Complete
 - [ ] Full Review
